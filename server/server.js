@@ -8,3 +8,4 @@ app.use(express.static('server/public'));
 app.listen(port, function() {
     console.log('server up on port:', port);
 });
+
